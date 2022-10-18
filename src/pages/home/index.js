@@ -4,7 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
-import backgroundImg from "./Profile Pic.jpg";
+import backgroundImg from "../../assets/images/Profile Pic.jpg";
 import Resume from "../../files/Samara Holmes - Resume V7.pdf";
 
 export const Home = () => {
@@ -19,7 +19,7 @@ export const Home = () => {
         <div className="intro_sec d-block d-lg-flex align-items-center ">
           <div
             className="h_bg-image order-1 order-lg-2 h-100 "
-            style={{ backgroundImage: `url(${backgroundImg})` }}
+            style={{ backgroundImage: "url('https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/293204686_632085614968417_6512487650977848669_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=1GQe1cEwTmMAX9EtOAs&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg4MTgyNjA0ODk1MTE1NTY3Nw%3D%3D.2-ccb7-5&oh=00_AT_mnwM306owtQ7NpiL8lYd1NNt7Au_tpo29W7nAIgx79A&oe=63537A4A&_nc_sid=30a2ef')" }}
           ></div>
           <div className="text order-2 order-lg-1 h-100 d-lg-flex justify-content-center">
             <div className="align-self-center ">

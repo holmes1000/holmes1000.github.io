@@ -81,12 +81,12 @@ const services = [
 ];
 
 const dataportfolio = [{
-        img: "/../../assets/images/audio-visualizer.PNG",
+        img: "audio-visualizer.PNG",
         desctiption: "GoatAShop. A WPI acessible shop for students to place listings and buy/sell items.",
         link: "https://github.com/holmes1000/GoataShop",
     },
     {
-        img: "/../../assets/images/audio-visualizer.PNG",
+        img: "audio-visualizer.PNG",
         desctiption: "Audio Visualizer. Uses Canvas, CORS, WebAudio API, and Tweakpane to create a visualizer for music.",
         link: "https://github.com/holmes1000/Audio-Visualizer",
     },
