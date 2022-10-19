@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/holmes1000.github.io/static/css/main.a0bf4427.css",
-    "main.js": "/holmes1000.github.io/static/js/main.35ec4280.js",
-    "static/js/377.ddffdb1c.chunk.js": "/holmes1000.github.io/static/js/377.ddffdb1c.chunk.js",
-    "static/media/react portfolio gif.gif": "/holmes1000.github.io/static/media/react portfolio gif.ae12c9961ea7c60d1819.gif",
-    "static/media/Profile Pic.jpg": "/holmes1000.github.io/static/media/Profile Pic.d5f210289d2757bb68df.jpg",
-    "static/media/react-porfolio.png": "/holmes1000.github.io/static/media/react-porfolio.53e5754ed0c5000309a4.png",
-    "static/media/Samara Holmes - Resume V7.pdf": "/holmes1000.github.io/static/media/Samara Holmes - Resume V7.a6a30b2a365490df7980.pdf",
-    "static/media/audio-visualizer.PNG": "/holmes1000.github.io/static/media/audio-visualizer.9332fc67a8321da0da34.PNG",
-    "static/media/logo.svg": "/holmes1000.github.io/static/media/logo.51f5400cafe1da30df4c.svg",
-    "index.html": "/holmes1000.github.io/index.html",
-    "main.a0bf4427.css.map": "/holmes1000.github.io/static/css/main.a0bf4427.css.map",
-    "main.35ec4280.js.map": "/holmes1000.github.io/static/js/main.35ec4280.js.map",
-    "377.ddffdb1c.chunk.js.map": "/holmes1000.github.io/static/js/377.ddffdb1c.chunk.js.map"
+    "main.css": "/static/css/main.a0bf4427.css",
+    "main.js": "/static/js/main.55386341.js",
+    "static/js/377.ddffdb1c.chunk.js": "/static/js/377.ddffdb1c.chunk.js",
+    "static/media/react portfolio gif.gif": "/static/media/react portfolio gif.ae12c9961ea7c60d1819.gif",
+    "static/media/Profile Pic.jpg": "/static/media/Profile Pic.d5f210289d2757bb68df.jpg",
+    "static/media/react-porfolio.png": "/static/media/react-porfolio.53e5754ed0c5000309a4.png",
+    "static/media/Samara Holmes - Resume V7.pdf": "/static/media/Samara Holmes - Resume V7.a6a30b2a365490df7980.pdf",
+    "static/media/audio-visualizer.PNG": "/static/media/audio-visualizer.9332fc67a8321da0da34.PNG",
+    "static/media/logo.svg": "/static/media/logo.51f5400cafe1da30df4c.svg",
+    "index.html": "/index.html",
+    "main.a0bf4427.css.map": "/static/css/main.a0bf4427.css.map",
+    "main.55386341.js.map": "/static/js/main.55386341.js.map",
+    "377.ddffdb1c.chunk.js.map": "/static/js/377.ddffdb1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0bf4427.css",
-    "static/js/main.35ec4280.js"
+    "static/js/main.55386341.js"
   ]
 }
