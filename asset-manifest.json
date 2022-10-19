@@ -1,27 +1,44 @@
 {
   "files": {
     "main.css": "/static/css/main.b6aac5ed.css",
-    "main.js": "/static/js/main.3429a99c.js",
-    "static/js/377.ddffdb1c.chunk.js": "/static/js/377.ddffdb1c.chunk.js",
+    "main.js": "/static/js/main.cb01425f.js",
+    "static/js/377.a6aa5430.chunk.js": "/static/js/377.a6aa5430.chunk.js",
+    "static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf": "/static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.20f6b6734fdd7648e206.pdf",
+    "static/media/IMG_9786.jpg": "/static/media/IMG_9786.d5c5b47393e9c74bd69c.jpg",
     "static/media/DJI_0183-min.jpg": "/static/media/DJI_0183-min.ce239c1667e2ef92eaf6.jpg",
     "static/media/Profile Pic.jpg": "/static/media/Profile Pic.d5f210289d2757bb68df.jpg",
+    "static/media/dronepic.PNG": "/static/media/dronepic.939b6086465a5358d95a.PNG",
     "static/media/DJI_0245-min.jpg": "/static/media/DJI_0245-min.a90aa5b41c6efcd6599e.jpg",
     "static/media/DSC02851-min.jpg": "/static/media/DSC02851-min.dd21378cc983b3c270b8.jpg",
     "static/media/DSC03648-min.jpg": "/static/media/DSC03648-min.84e9bb086dc43b19d6fb.jpg",
+    "static/media/ScienceFair.pdf": "/static/media/ScienceFair.ecde42a5de4db07abc84.pdf",
+    "static/media/arcademachine.PNG": "/static/media/arcademachine.cc5ba5c4552b1be60cda.PNG",
     "static/media/DSC03538-min.jpg": "/static/media/DSC03538-min.af0c83cf6733b83b6d96.jpg",
     "static/media/DJI_0207-min.jpg": "/static/media/DJI_0207-min.4d484062c1e774806df5.jpg",
+    "static/media/roboticarm.PNG": "/static/media/roboticarm.e789357a2de6815864be.PNG",
     "static/media/DSC03787-min.jpg": "/static/media/DSC03787-min.46abe31d022a1ff75072.jpg",
     "static/media/DJI_0287-min.jpg": "/static/media/DJI_0287-min.6d11af4132fceeae5063.jpg",
+    "static/media/goatashop.PNG": "/static/media/goatashop.deae3a765e13af323fa9.PNG",
+    "static/media/bosdff.PNG": "/static/media/bosdff.70aac5ce56dbe74bcdf0.PNG",
     "static/media/DSC03502-min.jpg": "/static/media/DSC03502-min.f70a1a0dd99b27238e3e.jpg",
+    "static/media/camera.PNG": "/static/media/camera.a0e035ffb40e02adc3b3.PNG",
+    "static/media/rbe3001.PNG": "/static/media/rbe3001.3556037da44944386234.PNG",
+    "static/media/nhhssff.PNG": "/static/media/nhhssff.adbbe0e3f317c5172edf.PNG",
+    "static/media/sciencefair.PNG": "/static/media/sciencefair.828febe6df65e3fe8038.PNG",
+    "static/media/trophy.PNG": "/static/media/trophy.47a494f9991a8280eae8.PNG",
+    "static/media/rbe2001.PNG": "/static/media/rbe2001.1fd2697e8d113528928e.PNG",
+    "static/media/starship.PNG": "/static/media/starship.10a3064ebb2ca0eb0eee.PNG",
     "static/media/Samara Holmes - Resume V7.pdf": "/static/media/Samara Holmes - Resume V7.a6a30b2a365490df7980.pdf",
+    "static/media/fingertip.PNG": "/static/media/fingertip.420a443bf59447018fb6.PNG",
+    "static/media/todolist.PNG": "/static/media/todolist.667113716e024baef5c8.PNG",
     "static/media/audio-visualizer.PNG": "/static/media/audio-visualizer.9332fc67a8321da0da34.PNG",
     "index.html": "/index.html",
     "main.b6aac5ed.css.map": "/static/css/main.b6aac5ed.css.map",
-    "main.3429a99c.js.map": "/static/js/main.3429a99c.js.map",
-    "377.ddffdb1c.chunk.js.map": "/static/js/377.ddffdb1c.chunk.js.map"
+    "main.cb01425f.js.map": "/static/js/main.cb01425f.js.map",
+    "377.a6aa5430.chunk.js.map": "/static/js/377.a6aa5430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6aac5ed.css",
-    "static/js/main.3429a99c.js"
+    "static/js/main.cb01425f.js"
   ]
 }
