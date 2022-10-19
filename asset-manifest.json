@@ -1,21 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.b6aac5ed.css",
-    "main.js": "/static/js/main.9134c250.js",
+    "main.js": "/static/js/main.3429a99c.js",
     "static/js/377.ddffdb1c.chunk.js": "/static/js/377.ddffdb1c.chunk.js",
-    "static/media/react portfolio gif.gif": "/static/media/react portfolio gif.ae12c9961ea7c60d1819.gif",
+    "static/media/DJI_0183-min.jpg": "/static/media/DJI_0183-min.ce239c1667e2ef92eaf6.jpg",
     "static/media/Profile Pic.jpg": "/static/media/Profile Pic.d5f210289d2757bb68df.jpg",
-    "static/media/react-porfolio.png": "/static/media/react-porfolio.53e5754ed0c5000309a4.png",
+    "static/media/DJI_0245-min.jpg": "/static/media/DJI_0245-min.a90aa5b41c6efcd6599e.jpg",
+    "static/media/DSC02851-min.jpg": "/static/media/DSC02851-min.dd21378cc983b3c270b8.jpg",
+    "static/media/DSC03648-min.jpg": "/static/media/DSC03648-min.84e9bb086dc43b19d6fb.jpg",
+    "static/media/DSC03538-min.jpg": "/static/media/DSC03538-min.af0c83cf6733b83b6d96.jpg",
+    "static/media/DJI_0207-min.jpg": "/static/media/DJI_0207-min.4d484062c1e774806df5.jpg",
+    "static/media/DSC03787-min.jpg": "/static/media/DSC03787-min.46abe31d022a1ff75072.jpg",
+    "static/media/DJI_0287-min.jpg": "/static/media/DJI_0287-min.6d11af4132fceeae5063.jpg",
+    "static/media/DSC03502-min.jpg": "/static/media/DSC03502-min.f70a1a0dd99b27238e3e.jpg",
     "static/media/Samara Holmes - Resume V7.pdf": "/static/media/Samara Holmes - Resume V7.a6a30b2a365490df7980.pdf",
     "static/media/audio-visualizer.PNG": "/static/media/audio-visualizer.9332fc67a8321da0da34.PNG",
-    "static/media/logo.svg": "/static/media/logo.51f5400cafe1da30df4c.svg",
     "index.html": "/index.html",
     "main.b6aac5ed.css.map": "/static/css/main.b6aac5ed.css.map",
-    "main.9134c250.js.map": "/static/js/main.9134c250.js.map",
+    "main.3429a99c.js.map": "/static/js/main.3429a99c.js.map",
     "377.ddffdb1c.chunk.js.map": "/static/js/377.ddffdb1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6aac5ed.css",
-    "static/js/main.9134c250.js"
+    "static/js/main.3429a99c.js"
   ]
 }
