@@ -1,5 +1,5 @@
 {
-    "homepage": "http://holmes1000.github.io/holmes1000.github.io",
+    "homepage": "http://holmes1000.github.io",
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": false,
@@ -26,12 +26,13 @@
         "web-vitals": "^0.2.4"
     },
     "scripts": {
-        "start": "node server.js",
+        "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "yarn build && copy build\\index.html build\\404.html",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d build",
+        "start:prod": "serve -s dist -l 3000"
     },
     "eslintConfig": {
         "extends": [
