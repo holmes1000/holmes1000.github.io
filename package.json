@@ -2,7 +2,7 @@
     "homepage": "http://holmes1000.github.io/holmes1000.github.io",
     "name": "react-portfolio",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "dependencies": {
         "@steveeeie/react-page-transition": "^1.2.1",
         "@testing-library/jest-dom": "^5.11.4",
@@ -28,7 +28,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "predeploy": "yarn build && cp build/index.html build/404.html",
+        "predeploy": "yarn build && copy build\\index.html build\\404.html",
         "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
