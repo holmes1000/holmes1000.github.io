@@ -1,31 +1,21 @@
 {
   "files": {
-    "main.css": "/holmes1000.github.io/static/css/main.d5e5015d.chunk.css",
-    "main.js": "/holmes1000.github.io/static/js/main.c06ef3de.chunk.js",
-    "main.js.map": "/holmes1000.github.io/static/js/main.c06ef3de.chunk.js.map",
-    "runtime-main.js": "/holmes1000.github.io/static/js/runtime-main.7d395e11.js",
-    "runtime-main.js.map": "/holmes1000.github.io/static/js/runtime-main.7d395e11.js.map",
-    "static/css/2.31ff0196.chunk.css": "/holmes1000.github.io/static/css/2.31ff0196.chunk.css",
-    "static/js/2.89c1efe4.chunk.js": "/holmes1000.github.io/static/js/2.89c1efe4.chunk.js",
-    "static/js/2.89c1efe4.chunk.js.map": "/holmes1000.github.io/static/js/2.89c1efe4.chunk.js.map",
-    "static/js/3.5ab5ac53.chunk.js": "/holmes1000.github.io/static/js/3.5ab5ac53.chunk.js",
-    "static/js/3.5ab5ac53.chunk.js.map": "/holmes1000.github.io/static/js/3.5ab5ac53.chunk.js.map",
+    "main.css": "/holmes1000.github.io/static/css/main.a0bf4427.css",
+    "main.js": "/holmes1000.github.io/static/js/main.35ec4280.js",
+    "static/js/377.ddffdb1c.chunk.js": "/holmes1000.github.io/static/js/377.ddffdb1c.chunk.js",
+    "static/media/react portfolio gif.gif": "/holmes1000.github.io/static/media/react portfolio gif.ae12c9961ea7c60d1819.gif",
+    "static/media/Profile Pic.jpg": "/holmes1000.github.io/static/media/Profile Pic.d5f210289d2757bb68df.jpg",
+    "static/media/react-porfolio.png": "/holmes1000.github.io/static/media/react-porfolio.53e5754ed0c5000309a4.png",
+    "static/media/Samara Holmes - Resume V7.pdf": "/holmes1000.github.io/static/media/Samara Holmes - Resume V7.a6a30b2a365490df7980.pdf",
+    "static/media/audio-visualizer.PNG": "/holmes1000.github.io/static/media/audio-visualizer.9332fc67a8321da0da34.PNG",
+    "static/media/logo.svg": "/holmes1000.github.io/static/media/logo.51f5400cafe1da30df4c.svg",
     "index.html": "/holmes1000.github.io/index.html",
-    "static/css/2.31ff0196.chunk.css.map": "/holmes1000.github.io/static/css/2.31ff0196.chunk.css.map",
-    "static/css/main.d5e5015d.chunk.css.map": "/holmes1000.github.io/static/css/main.d5e5015d.chunk.css.map",
-    "static/js/2.89c1efe4.chunk.js.LICENSE.txt": "/holmes1000.github.io/static/js/2.89c1efe4.chunk.js.LICENSE.txt",
-    "static/media/Profile Pic.jpg": "/holmes1000.github.io/static/media/Profile Pic.d5f21028.jpg",
-    "static/media/Samara Holmes - Resume V7.a6a30b2a.pdf": "/holmes1000.github.io/static/media/Samara Holmes - Resume V7.a6a30b2a.pdf",
-    "static/media/audio-visualizer.PNG": "/holmes1000.github.io/static/media/audio-visualizer.9332fc67.PNG",
-    "static/media/logo.svg": "/holmes1000.github.io/static/media/logo.51f5400c.svg",
-    "static/media/react portfolio gif.gif": "/holmes1000.github.io/static/media/react portfolio gif.ae12c996.gif",
-    "static/media/react-porfolio.png": "/holmes1000.github.io/static/media/react-porfolio.53e5754e.png"
+    "main.a0bf4427.css.map": "/holmes1000.github.io/static/css/main.a0bf4427.css.map",
+    "main.35ec4280.js.map": "/holmes1000.github.io/static/js/main.35ec4280.js.map",
+    "377.ddffdb1c.chunk.js.map": "/holmes1000.github.io/static/js/377.ddffdb1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d395e11.js",
-    "static/css/2.31ff0196.chunk.css",
-    "static/js/2.89c1efe4.chunk.js",
-    "static/css/main.d5e5015d.chunk.css",
-    "static/js/main.c06ef3de.chunk.js"
+    "static/css/main.a0bf4427.css",
+    "static/js/main.35ec4280.js"
   ]
 }
