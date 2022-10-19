@@ -31,7 +31,7 @@ import ScienceFair from "./files/ScienceFair.pdf";
 const logotext = "SH";
 const meta = {
     title: "Samara Holmes",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m an aspiring software engineer and robotics engineer with a passion for creating innovative solutions to real-world problems. I’m currently a Junior at the Worcester Polytechnic Institute studying Computer Science and Robotics Engineering.",
 };
 
 const introdata = {
@@ -41,12 +41,12 @@ const introdata = {
         second: "I code",
         third: "I fly drones",
     },
-    description: "I am a student at the Worcester Polytechnic Institute pursuing a Bachelors of Science in both computer science and robotics engineering.",
+    description: " I am a passionate, aspiring engineer with the intention of developing some really cool technology in the near future. I’m currently a Junior at the Worcester Polytechnic Institute studying Computer Science and Robotics Engineering.",
 };
 
 const dataabout = {
     title: "Get to know me",
-    aboutme: "In my free time, I like to explore the outdoors, watch sunrises, hang out with my friends, and fly my drone. My hobbies include, travelling, programming, 3D designing, video editing, and almost anything that involves using a computer. I have also had a huge interest in drones and cinematography. All my work is posted on my youtube channel.",
+    aboutme: "When I'm not working, you can find me exploring the outdoors, watching sunrises, spending time with my friends, and flying my drone. All my videography work is posted on my youtube channel.",
 };
 const worktimeline = [{
         jobtitle: "Software Engineer Intern",
@@ -246,9 +246,9 @@ const contactConfig = {
     description: "Contact me with career opportunities or questions. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_xqm0sco",
+    YOUR_TEMPLATE_ID: "template_urg5pz1",
+    YOUR_USER_ID: "ORGK_CdfLqiYfIzYj",
 };
 
 const socialprofils = {
