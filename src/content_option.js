@@ -9,6 +9,24 @@ import img8 from "./assets/images/DJI_0183-min.jpg";
 import img9 from "./assets/images/DSC02851-min.jpg";
 
 import portImg1 from "./assets/images/audio-visualizer.PNG";
+import portImg2 from "./assets/images/goatashop.PNG";
+import portImg3 from "./assets/images/rbe3001.PNG";
+import portImg4 from "./assets/images/sciencefair.PNG";
+import portImg5 from "./assets/images/fingertip.PNG";
+import portImg6 from "./assets/images/camera.PNG";
+import portImg7 from "./assets/images/dronepic.PNG";
+import portImg8 from "./assets/images/roboticarm.PNG";
+import portImg9 from "./assets/images/starship.PNG";
+import portImg10 from "./assets/images/arcademachine.PNG";
+import portImg11 from "./assets/images/trophy.PNG";
+import portImg12 from "./assets/images/todolist.PNG";
+import portImg13 from "./assets/images/rbe2001.PNG";
+import portImg14 from "./assets/images/IMG_9786.jpg";
+import portImg15 from "./assets/images/bosdff.PNG";
+import portImg16 from "./assets/images/nhhssff.PNG";
+
+import Report from "./files/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf";
+import ScienceFair from "./files/ScienceFair.pdf";
 
 const logotext = "SH";
 const meta = {
@@ -93,7 +111,7 @@ const services = [
 ];
 
 const dataportfolio = [{
-        img: portImg1,
+        img: portImg2,
         desctiption: "GoatAShop. A WPI acessible shop for students to place listings and buy/sell items.",
         link: "https://github.com/holmes1000/GoataShop",
     },
@@ -101,6 +119,76 @@ const dataportfolio = [{
         img: portImg1,
         desctiption: "Audio Visualizer. Uses Canvas, CORS, WebAudio API, and Tweakpane to create a visualizer for music.",
         link: "https://github.com/holmes1000/Audio-Visualizer",
+    },
+    {
+        img: portImg3,
+        desctiption: "A pick and place robotic manipulator. Programmed to sort objects of assorted colors and play tic-tac-toe.",
+        link: Report,
+    },
+    {
+        img: portImg13,
+        desctiption: "Two robots designed to pick and place panels on rooves at different angles.",
+        link: "https://youtu.be/DlBvDDm49zI",
+    },
+    {
+        img: portImg12,
+        desctiption: "A to-do list application using express, node.js, and MongoDB.",
+        link: "https://github.com/holmes1000/To-Do-List-V2",
+    },
+    {
+        img: portImg11,
+        desctiption: "ACTE Trophy Design Competition.",
+        link: "https://youtu.be/EMnUUF1aJZc?t=120",
+    },
+    {
+        img: portImg5,
+        desctiption: "3D printed modular fingertip. Featuring a sliding mechanism along with a swappable fingernail and bottle opener design.",
+        link: "",
+    },
+    {
+        img: portImg6,
+        desctiption: "3D replica of a Fujifilm camera designed in AutoDesk Inventor.",
+        link: "",
+    },
+    {
+        img: portImg4,
+        desctiption: "Research on 4D printed structures.",
+        link: ScienceFair,
+    },
+    {
+        img: portImg8,
+        desctiption: "Built the 3D printed robotic arm designed by Gael Langevin.",
+        link: "",
+    },
+    {
+        img: portImg10,
+        desctiption: "Arcade machine",
+        link: "",
+    },
+    {
+        img: portImg7,
+        desctiption: "Winged drone",
+        link: "",
+    },
+    {
+        img: portImg9,
+        desctiption: "Starship Design",
+        link: "",
+    },
+    {
+        img: portImg14,
+        desctiption: "Robotic navigation",
+        link: "https://youtu.be/hKVp2z9qX4Q",
+    },
+    {
+        img: portImg15,
+        desctiption: "Boston Drone Film Festival Finalist. A short film about the contrasting landscapes between my home in New Hampshire and my new home in Costa Rica.",
+        link: "https://youtu.be/Nuw1YYiFnmU",
+    },
+    {
+        img: portImg16,
+        desctiption: "New Hampshire High School Film Festival Finalist. A short film showing the drone perspectives of New England in Winter.",
+        link: "https://youtu.be/Py4G-gj3QvA",
     },
 ];
 
