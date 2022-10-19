@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/holmes1000.github.io/static/css/main.1f719b95.chunk.css",
-    "main.js": "/holmes1000.github.io/static/js/main.f82b0238.chunk.js",
-    "main.js.map": "/holmes1000.github.io/static/js/main.f82b0238.chunk.js.map",
+    "main.css": "/holmes1000.github.io/static/css/main.d5e5015d.chunk.css",
+    "main.js": "/holmes1000.github.io/static/js/main.c06ef3de.chunk.js",
+    "main.js.map": "/holmes1000.github.io/static/js/main.c06ef3de.chunk.js.map",
     "runtime-main.js": "/holmes1000.github.io/static/js/runtime-main.7d395e11.js",
     "runtime-main.js.map": "/holmes1000.github.io/static/js/runtime-main.7d395e11.js.map",
     "static/css/2.31ff0196.chunk.css": "/holmes1000.github.io/static/css/2.31ff0196.chunk.css",
@@ -12,12 +12,12 @@
     "static/js/3.5ab5ac53.chunk.js.map": "/holmes1000.github.io/static/js/3.5ab5ac53.chunk.js.map",
     "index.html": "/holmes1000.github.io/index.html",
     "static/css/2.31ff0196.chunk.css.map": "/holmes1000.github.io/static/css/2.31ff0196.chunk.css.map",
-    "static/css/main.1f719b95.chunk.css.map": "/holmes1000.github.io/static/css/main.1f719b95.chunk.css.map",
+    "static/css/main.d5e5015d.chunk.css.map": "/holmes1000.github.io/static/css/main.d5e5015d.chunk.css.map",
     "static/js/2.89c1efe4.chunk.js.LICENSE.txt": "/holmes1000.github.io/static/js/2.89c1efe4.chunk.js.LICENSE.txt",
     "static/media/Profile Pic.jpg": "/holmes1000.github.io/static/media/Profile Pic.d5f21028.jpg",
     "static/media/Samara Holmes - Resume V7.a6a30b2a.pdf": "/holmes1000.github.io/static/media/Samara Holmes - Resume V7.a6a30b2a.pdf",
     "static/media/audio-visualizer.PNG": "/holmes1000.github.io/static/media/audio-visualizer.9332fc67.PNG",
-    "static/media/logo.svg": "/holmes1000.github.io/static/media/logo.e8a97624.svg",
+    "static/media/logo.svg": "/holmes1000.github.io/static/media/logo.51f5400c.svg",
     "static/media/react portfolio gif.gif": "/holmes1000.github.io/static/media/react portfolio gif.ae12c996.gif",
     "static/media/react-porfolio.png": "/holmes1000.github.io/static/media/react-porfolio.53e5754e.png"
   },
@@ -25,7 +25,7 @@
     "static/js/runtime-main.7d395e11.js",
     "static/css/2.31ff0196.chunk.css",
     "static/js/2.89c1efe4.chunk.js",
-    "static/css/main.1f719b95.chunk.css",
-    "static/js/main.f82b0238.chunk.js"
+    "static/css/main.d5e5015d.chunk.css",
+    "static/js/main.c06ef3de.chunk.js"
   ]
 }
