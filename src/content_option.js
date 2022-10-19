@@ -167,6 +167,7 @@ const socialprofils = {
     github: "https://github.com/holmes1000",
     linkedin: "https://www.linkedin.com/in/samaraholmes/",
     youtube: "https://www.youtube.com/channel/UCxYbzgpIIxl_f8kbmRtZnPA",
+    instagram: "https://www.instagram.com/holmes1000/",
 };
 export {
     meta,
