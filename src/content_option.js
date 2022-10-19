@@ -1,3 +1,15 @@
+import img1 from "./assets/images/DJI_0207-min.jpg";
+import img2 from "./assets/images/DJI_0245-min.jpg";
+import img3 from "./assets/images/DJI_0287-min.jpg";
+import img4 from "./assets/images/DSC03502-min.jpg";
+import img5 from "./assets/images/DSC03538-min.jpg";
+import img6 from "./assets/images/DSC03648-min.jpg";
+import img7 from "./assets/images/DSC03787-min.jpg";
+import img8 from "./assets/images/DJI_0183-min.jpg";
+import img9 from "./assets/images/DSC02851-min.jpg";
+
+import portImg1 from "./assets/images/audio-visualizer.PNG";
+
 const logotext = "SH";
 const meta = {
     title: "Samara Holmes",
@@ -81,76 +93,61 @@ const services = [
 ];
 
 const dataportfolio = [{
-        img: "audio-visualizer.PNG",
+        img: portImg1,
         desctiption: "GoatAShop. A WPI acessible shop for students to place listings and buy/sell items.",
         link: "https://github.com/holmes1000/GoataShop",
     },
     {
-        img: "audio-visualizer.PNG",
+        img: portImg1,
         desctiption: "Audio Visualizer. Uses Canvas, CORS, WebAudio API, and Tweakpane to create a visualizer for music.",
         link: "https://github.com/holmes1000/Audio-Visualizer",
     },
 ];
 
-const photoportfolio = [{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+const photoportfolio = [
+{
+    img: img1,
+    desctiption: "A drone shot of the Balsams Grand Resort in Dixville Notch, NH.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    img: img2,
+    desctiption: "A drone shot of Lake Willoughby in VT.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    img: img3,
+    desctiption: "A drone shot of the French King Bridge in Western, MA.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    img: img4,
+    desctiption: "Me on the Frankenstein Trestle in Crawford Notch, NH.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    img: img5,
+    desctiption: "Me on the Frankenstein Trestle (but further away) in Crawford Notch, NH.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    img: img6,
+    desctiption: "The Conway Scenic Railroad train",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    img: img7,
+    desctiption: "Me in front of Bash Bish Falls in NY.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    img: img8,
+    desctiption: "A drone shot of a small town in VT.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/550/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    img: img9,
+    desctiption: "A house in Stowe, VT.",
     link: "#",
 },
 ];

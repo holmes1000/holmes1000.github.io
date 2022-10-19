@@ -26,7 +26,6 @@ export const Photography = () => {
                 <img src={data.img} alt="" />
                 <div className="content">
                   <p>{data.desctiption}</p>
-                  <a href={data.link}>view project</a>
                 </div>
               </div>
             );
