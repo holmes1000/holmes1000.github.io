@@ -170,6 +170,10 @@ section {
     color: var(--primary-color);
 }
 
+#button_p, #button_h {
+    margin-top: 20px;
+}
+
 #button_h:hover {
     color: var(--primary-color)
 }

@@ -10,13 +10,12 @@ import img9 from "./assets/images/DSC02851-min.jpg";
 
 import portImg1 from "./assets/images/audio-visualizer.PNG";
 import portImg2 from "./assets/images/goatashop.PNG";
-import portImg3 from "./assets/images/rbe3001.PNG";
-import portImg4 from "./assets/images/sciencefair.PNG";
+import portImg3 from "./assets/images/rbe3001.png";
+import portImg4 from "./assets/images/ultimaker.jpg";
 import portImg5 from "./assets/images/fingertip.PNG";
 import portImg6 from "./assets/images/camera.PNG";
 import portImg7 from "./assets/images/dronepic.PNG";
 import portImg8 from "./assets/images/roboticarm.PNG";
-import portImg9 from "./assets/images/starship.PNG";
 import portImg10 from "./assets/images/arcademachine.PNG";
 import portImg11 from "./assets/images/trophy.PNG";
 import portImg12 from "./assets/images/todolist.PNG";
@@ -24,6 +23,7 @@ import portImg13 from "./assets/images/rbe2001.PNG";
 import portImg14 from "./assets/images/IMG_9786.jpg";
 import portImg15 from "./assets/images/bosdff.PNG";
 import portImg16 from "./assets/images/nhhssff.PNG";
+import portImg17 from "./assets/images/flighttracker.PNG";
 
 import Report from "./files/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf";
 import ScienceFair from "./files/ScienceFair.pdf";
@@ -35,11 +35,12 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hey! I’m Samara",
+    title: "Hey, I’m Samara.",
     animated: {
-        first: "I build robots",
-        second: "I code",
+        first: "I code things",
+        second: "I build robots",
         third: "I fly drones",
+        fourth: "I take photos",
     },
     description: " I am a passionate, aspiring engineer with the intention of developing some really cool technology in the near future. I’m currently a Junior at the Worcester Polytechnic Institute studying Computer Science and Robotics Engineering.",
 };
@@ -112,8 +113,13 @@ const services = [
 
 const dataportfolio = [{
         img: portImg2,
-        desctiption: "GoatAShop. A WPI acessible shop for students to place listings and buy/sell items.",
+        desctiption: "GoataShop. A WPI acessible shop for students to place listings and buy/sell items.",
         link: "https://github.com/holmes1000/GoataShop",
+    },
+    {
+        img: portImg17,
+        desctiption: "FlightTracker. An app designed using Figma, in hopes of implementing with AviationStack API and React for a live tracking web application.",
+        link: "",
     },
     {
         img: portImg1,
@@ -137,7 +143,7 @@ const dataportfolio = [{
     },
     {
         img: portImg11,
-        desctiption: "ACTE Trophy Design Competition.",
+        desctiption: "Trophy design created in AutoDesk Inventor for the ACTE Trophy Design competition. Awarded top 40 nationally.",
         link: "https://youtu.be/EMnUUF1aJZc?t=120",
     },
     {
@@ -157,27 +163,22 @@ const dataportfolio = [{
     },
     {
         img: portImg8,
-        desctiption: "Built the 3D printed robotic arm designed by Gael Langevin.",
-        link: "",
+        desctiption: "Built the 3D printed robotic arm designed by Gael Langevin. Collaborated with local schools to print the components.",
+        link: "https://inmoov.fr/hand-and-forarm/",
     },
     {
         img: portImg10,
-        desctiption: "Arcade machine",
+        desctiption: "A replica of a childhood game I used to play. Created using an Arduino with lots of LEDs and wires. Rapidly prototyped using AutoDesk Inventor. Submitted for high school credit.",
         link: "",
     },
     {
         img: portImg7,
-        desctiption: "Winged drone",
-        link: "",
-    },
-    {
-        img: portImg9,
-        desctiption: "Starship Design",
+        desctiption: "I've been working with flight components and the Pixhawk 4 in attempt to create a drone with deployable wings, in hopes of maximizing flight times.",
         link: "",
     },
     {
         img: portImg14,
-        desctiption: "Robotic navigation",
+        desctiption: "Using an ESP32, ultrasonic sensor, OpenMV camera, line tracker, and infrared sensor, the robot was able to navigate and map the shape of an object.",
         link: "https://youtu.be/hKVp2z9qX4Q",
     },
     {
@@ -244,8 +245,6 @@ const contactConfig = {
     YOUR_EMAIL: "sdholmes@wpi.edu",
     YOUR_FONE: "(603) 793-4060",
     description: "Contact me with career opportunities or questions. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_xqm0sco",
     YOUR_TEMPLATE_ID: "template_urg5pz1",
     YOUR_USER_ID: "ORGK_CdfLqiYfIzYj",
