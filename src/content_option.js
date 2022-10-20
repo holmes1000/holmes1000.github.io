@@ -7,6 +7,14 @@ import img6 from "./assets/images/DSC03648-min.jpg";
 import img7 from "./assets/images/DSC03787-min.jpg";
 import img8 from "./assets/images/DJI_0183-min.jpg";
 import img9 from "./assets/images/DSC02851-min.jpg";
+import img10 from "./assets/images/DSC02318-min.jpg";
+import img11 from "./assets/images/DSC02561-min.jpg";
+import img12 from "./assets/images/DSC01827-min.jpg";
+import img13 from "./assets/images/boats-min.jpg";
+import img14 from "./assets/images/DSC01463-min.jpg";
+import img15 from "./assets/images/DSC01499-min.jpg";
+import img16 from "./assets/images/nubble-min.jpg";
+import img17 from "./assets/images/wentworth-min.jpg";
 
 import portImg1 from "./assets/images/audio-visualizer.PNG";
 import portImg2 from "./assets/images/goatashop.PNG";

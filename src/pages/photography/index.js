@@ -3,6 +3,8 @@ import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import { photoportfolio, meta } from "../../content_option";
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/opacity.css';
 
 export const Photography = () => {
   return (
@@ -22,8 +24,8 @@ export const Photography = () => {
         <div className="mb-5 po_items_ho">
           {photoportfolio.map((data, i) => {
             return (
-              <div key={i} className="po_item">
-                <img src={data.img} alt="" />
+              <div key={i} className="po_item2">
+                <LazyLoadImage src={data.img} />
                 <div className="content">
                   <p>{data.desctiption}</p>
                 </div>
