@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.a787735b.css",
+    "main.css": "/static/css/main.2c04ee6c.css",
     "main.js": "/static/js/main.ef1bd660.js",
     "static/js/377.a6aa5430.chunk.js": "/static/js/377.a6aa5430.chunk.js",
     "static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf": "/static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.20f6b6734fdd7648e206.pdf",
     "static/media/DJI_0183-min.jpg": "/static/media/DJI_0183-min.ce239c1667e2ef92eaf6.jpg",
-    "static/media/Profile Pic.jpg": "/static/media/Profile Pic.d5f210289d2757bb68df.jpg",
     "static/media/IMG_9786.jpg": "/static/media/IMG_9786.09a8bef8685476ab470a.jpg",
+    "static/media/Profile-Pic2.webp": "/static/media/Profile-Pic2.b17880495cf0f5a59514.webp",
     "static/media/dronepic.PNG": "/static/media/dronepic.35297248501e96e45a57.PNG",
     "static/media/nubble-min.jpg": "/static/media/nubble-min.290caa134410b1589eec.jpg",
     "static/media/DJI_0245-min.jpg": "/static/media/DJI_0245-min.a90aa5b41c6efcd6599e.jpg",
@@ -41,12 +41,12 @@
     "static/media/audio-visualizer.PNG": "/static/media/audio-visualizer.d762b3bb7187141bb13a.PNG",
     "static/media/todolist.PNG": "/static/media/todolist.52b6ea62b089626914af.PNG",
     "index.html": "/index.html",
-    "main.a787735b.css.map": "/static/css/main.a787735b.css.map",
+    "main.2c04ee6c.css.map": "/static/css/main.2c04ee6c.css.map",
     "main.ef1bd660.js.map": "/static/js/main.ef1bd660.js.map",
     "377.a6aa5430.chunk.js.map": "/static/js/377.a6aa5430.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a787735b.css",
+    "static/css/main.2c04ee6c.css",
     "static/js/main.ef1bd660.js"
   ]
 }
