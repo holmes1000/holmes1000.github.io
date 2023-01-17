@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0fc140eb.css",
-    "main.js": "/static/js/main.cef5fde3.js",
+    "main.js": "/static/js/main.a336fbd9.js",
     "static/js/377.a6aa5430.chunk.js": "/static/js/377.a6aa5430.chunk.js",
     "static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf": "/static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.20f6b6734fdd7648e206.pdf",
     "static/media/DJI_0183-min.jpg": "/static/media/DJI_0183-min.ce239c1667e2ef92eaf6.jpg",
@@ -38,16 +38,16 @@
     "static/media/DSC02318-min.jpg": "/static/media/DSC02318-min.6433f0c7ae71380acd6a.jpg",
     "static/media/ultimaker.jpg": "/static/media/ultimaker.200e989151286a42aada.jpg",
     "static/media/fingertip.PNG": "/static/media/fingertip.5a85d8ceac0619a5eeab.PNG",
-    "static/media/rbe3002.PNG": "/static/media/rbe3002.689d91b33096cfa4e791.PNG",
+    "static/media/rbe3002.PNG": "/static/media/rbe3002.8e6776055373dd4cf9ec.PNG",
     "static/media/audio-visualizer.PNG": "/static/media/audio-visualizer.d762b3bb7187141bb13a.PNG",
     "static/media/todolist.PNG": "/static/media/todolist.52b6ea62b089626914af.PNG",
     "index.html": "/index.html",
     "main.0fc140eb.css.map": "/static/css/main.0fc140eb.css.map",
-    "main.cef5fde3.js.map": "/static/js/main.cef5fde3.js.map",
+    "main.a336fbd9.js.map": "/static/js/main.a336fbd9.js.map",
     "377.a6aa5430.chunk.js.map": "/static/js/377.a6aa5430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fc140eb.css",
-    "static/js/main.cef5fde3.js"
+    "static/js/main.a336fbd9.js"
   ]
 }
