@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fc140eb.css",
-    "main.js": "/static/js/main.ea4bd827.js",
+    "main.css": "/static/css/main.e997bc7b.css",
+    "main.js": "/static/js/main.ff366b0b.js",
     "static/js/377.a6aa5430.chunk.js": "/static/js/377.a6aa5430.chunk.js",
     "static/media/IMG_E6048.png": "/static/media/IMG_E6048.1cf23094bf0055381cce.png",
     "static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf": "/static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.20f6b6734fdd7648e206.pdf",
@@ -44,12 +44,12 @@
     "static/media/audio-visualizer.PNG": "/static/media/audio-visualizer.d762b3bb7187141bb13a.PNG",
     "static/media/todolist.PNG": "/static/media/todolist.52b6ea62b089626914af.PNG",
     "index.html": "/index.html",
-    "main.0fc140eb.css.map": "/static/css/main.0fc140eb.css.map",
-    "main.ea4bd827.js.map": "/static/js/main.ea4bd827.js.map",
+    "main.e997bc7b.css.map": "/static/css/main.e997bc7b.css.map",
+    "main.ff366b0b.js.map": "/static/js/main.ff366b0b.js.map",
     "377.a6aa5430.chunk.js.map": "/static/js/377.a6aa5430.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fc140eb.css",
-    "static/js/main.ea4bd827.js"
+    "static/css/main.e997bc7b.css",
+    "static/js/main.ff366b0b.js"
   ]
 }
