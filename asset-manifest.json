@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0fc140eb.css",
-    "main.js": "/static/js/main.f86119e8.js",
+    "main.js": "/static/js/main.fd5fa704.js",
     "static/js/377.a6aa5430.chunk.js": "/static/js/377.a6aa5430.chunk.js",
-    "static/media/IMG_E6048.png": "/static/media/IMG_E6048.1cf23094bf0055381cce.png",
     "static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf": "/static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.20f6b6734fdd7648e206.pdf",
     "static/media/DJI_0183-min.jpg": "/static/media/DJI_0183-min.ce239c1667e2ef92eaf6.jpg",
     "static/media/IMG_9786.jpg": "/static/media/IMG_9786.09a8bef8685476ab470a.jpg",
@@ -45,11 +44,11 @@
     "static/media/todolist.PNG": "/static/media/todolist.52b6ea62b089626914af.PNG",
     "index.html": "/index.html",
     "main.0fc140eb.css.map": "/static/css/main.0fc140eb.css.map",
-    "main.f86119e8.js.map": "/static/js/main.f86119e8.js.map",
+    "main.fd5fa704.js.map": "/static/js/main.fd5fa704.js.map",
     "377.a6aa5430.chunk.js.map": "/static/js/377.a6aa5430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fc140eb.css",
-    "static/js/main.f86119e8.js"
+    "static/js/main.fd5fa704.js"
   ]
 }
