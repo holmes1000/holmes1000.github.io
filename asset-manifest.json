@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0fc140eb.css",
-    "main.js": "/static/js/main.17c1ee4b.js",
+    "main.js": "/static/js/main.d78ae2c3.js",
     "static/js/377.a6aa5430.chunk.js": "/static/js/377.a6aa5430.chunk.js",
     "static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf": "/static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.20f6b6734fdd7648e206.pdf",
     "static/media/DJI_0183-min.jpg": "/static/media/DJI_0183-min.ce239c1667e2ef92eaf6.jpg",
@@ -29,6 +29,7 @@
     "static/media/DSC01827-min.jpg": "/static/media/DSC01827-min.0beb69f6cc7c64eebf07.jpg",
     "static/media/DSC02561-min.jpg": "/static/media/DSC02561-min.2c44762a6702874cd1e8.jpg",
     "static/media/nhhssff.PNG": "/static/media/nhhssff.adbbe0e3f317c5172edf.PNG",
+    "static/media/bwh-logo.jpg": "/static/media/bwh-logo.c8be9f247ce5fafd417d.jpg",
     "static/media/trophy.PNG": "/static/media/trophy.47a494f9991a8280eae8.PNG",
     "static/media/rbe2001.PNG": "/static/media/rbe2001.15ababd55b2083dc67c0.PNG",
     "static/media/DSC01499-min.jpg": "/static/media/DSC01499-min.78a9eeb85330a1d9463c.jpg",
@@ -43,11 +44,11 @@
     "static/media/todolist.PNG": "/static/media/todolist.52b6ea62b089626914af.PNG",
     "index.html": "/index.html",
     "main.0fc140eb.css.map": "/static/css/main.0fc140eb.css.map",
-    "main.17c1ee4b.js.map": "/static/js/main.17c1ee4b.js.map",
+    "main.d78ae2c3.js.map": "/static/js/main.d78ae2c3.js.map",
     "377.a6aa5430.chunk.js.map": "/static/js/377.a6aa5430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fc140eb.css",
-    "static/js/main.17c1ee4b.js"
+    "static/js/main.d78ae2c3.js"
   ]
 }
