@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0fc140eb.css",
-    "main.js": "/static/js/main.d78ae2c3.js",
+    "main.js": "/static/js/main.e3c59a89.js",
     "static/js/377.a6aa5430.chunk.js": "/static/js/377.a6aa5430.chunk.js",
     "static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf": "/static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.20f6b6734fdd7648e206.pdf",
     "static/media/DJI_0183-min.jpg": "/static/media/DJI_0183-min.ce239c1667e2ef92eaf6.jpg",
@@ -16,6 +16,7 @@
     "static/media/arcademachine.PNG": "/static/media/arcademachine.cc5ba5c4552b1be60cda.PNG",
     "static/media/wentworth-min.jpg": "/static/media/wentworth-min.a20e76eabcf58d056e0f.jpg",
     "static/media/DSC03538-min.jpg": "/static/media/DSC03538-min.af0c83cf6733b83b6d96.jpg",
+    "static/media/IMG_E6048.HEIC": "/static/media/IMG_E6048.1c957ba7eb042746a6a0.HEIC",
     "static/media/DJI_0207-min.jpg": "/static/media/DJI_0207-min.4d484062c1e774806df5.jpg",
     "static/media/boats-min.jpg": "/static/media/boats-min.6bd942fbb328ca69df5b.jpg",
     "static/media/DSC03787-min.jpg": "/static/media/DSC03787-min.46abe31d022a1ff75072.jpg",
@@ -44,11 +45,11 @@
     "static/media/todolist.PNG": "/static/media/todolist.52b6ea62b089626914af.PNG",
     "index.html": "/index.html",
     "main.0fc140eb.css.map": "/static/css/main.0fc140eb.css.map",
-    "main.d78ae2c3.js.map": "/static/js/main.d78ae2c3.js.map",
+    "main.e3c59a89.js.map": "/static/js/main.e3c59a89.js.map",
     "377.a6aa5430.chunk.js.map": "/static/js/377.a6aa5430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fc140eb.css",
-    "static/js/main.d78ae2c3.js"
+    "static/js/main.e3c59a89.js"
   ]
 }
