@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.35d9331e.css",
-    "main.js": "/static/js/main.7e46da2a.js",
+    "main.js": "/static/js/main.cd97aa2e.js",
     "static/js/377.a6aa5430.chunk.js": "/static/js/377.a6aa5430.chunk.js",
     "static/media/IMG_E6048.png": "/static/media/IMG_E6048.1cf23094bf0055381cce.png",
     "static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf": "/static/media/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.20f6b6734fdd7648e206.pdf",
@@ -29,6 +29,7 @@
     "static/media/DSC01463-min.jpg": "/static/media/DSC01463-min.5af847ea806f691ad9d9.jpg",
     "static/media/DSC01827-min.jpg": "/static/media/DSC01827-min.0beb69f6cc7c64eebf07.jpg",
     "static/media/DSC02561-min.jpg": "/static/media/DSC02561-min.2c44762a6702874cd1e8.jpg",
+    "static/media/hyperdelta_render.png": "/static/media/hyperdelta_render.d1cfdaeab34130c89ada.png",
     "static/media/nhhssff.PNG": "/static/media/nhhssff.adbbe0e3f317c5172edf.PNG",
     "static/media/bwh-logo.jpg": "/static/media/bwh-logo.c8be9f247ce5fafd417d.jpg",
     "static/media/trophy.PNG": "/static/media/trophy.47a494f9991a8280eae8.PNG",
@@ -36,8 +37,9 @@
     "static/media/DSC01499-min.jpg": "/static/media/DSC01499-min.78a9eeb85330a1d9463c.jpg",
     "static/media/camera.PNG": "/static/media/camera.3e2f439df2656851abd2.PNG",
     "static/media/aerotrades.PNG": "/static/media/aerotrades.9ee15da106eed45a131c.PNG",
-    "static/media/Samara Holmes - Resume V8.pdf": "/static/media/Samara Holmes - Resume V8.447a326c005562412766.pdf",
+    "static/media/Samara Holmes CS Resume.pdf": "/static/media/Samara Holmes CS Resume.cf99bd4bbbe621913021.pdf",
     "static/media/DSC02318-min.jpg": "/static/media/DSC02318-min.6433f0c7ae71380acd6a.jpg",
+    "static/media/coverage_vs_num_robots.png": "/static/media/coverage_vs_num_robots.b9f14db4cce12b538524.png",
     "static/media/ultimaker.jpg": "/static/media/ultimaker.200e989151286a42aada.jpg",
     "static/media/fingertip.PNG": "/static/media/fingertip.5a85d8ceac0619a5eeab.PNG",
     "static/media/rbe3002.png": "/static/media/rbe3002.8e6776055373dd4cf9ec.png",
@@ -45,11 +47,11 @@
     "static/media/todolist.PNG": "/static/media/todolist.52b6ea62b089626914af.PNG",
     "index.html": "/index.html",
     "main.35d9331e.css.map": "/static/css/main.35d9331e.css.map",
-    "main.7e46da2a.js.map": "/static/js/main.7e46da2a.js.map",
+    "main.cd97aa2e.js.map": "/static/js/main.cd97aa2e.js.map",
     "377.a6aa5430.chunk.js.map": "/static/js/377.a6aa5430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35d9331e.css",
-    "static/js/main.7e46da2a.js"
+    "static/js/main.cd97aa2e.js"
   ]
 }
