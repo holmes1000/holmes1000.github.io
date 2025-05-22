@@ -2,6 +2,8 @@ import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/opacity.css';
 import {
   dataabout,
   meta,
@@ -29,9 +31,9 @@ export const About = () => {
           <Col lg="5">
             <h3 className="color_sec py-4">{dataabout.title}</h3>
           </Col>
-          <Col lg="7" className="d-flex align-items-center">
+          <Col lg="7">
             <div>
-              <p>{dataabout.aboutme}</p>
+              <p dangerouslySetInnerHTML={{__html: dataabout.aboutme}}></p>
             </div>
           </Col>
         </Row>
@@ -46,7 +48,7 @@ export const About = () => {
                   return (
                     <tr key={i}>
                       <th scope="row">{data.jobtitle}</th>
-                      <td>{data.where}</td>
+                      <td dangerouslySetInnerHTML={{ __html: data.where}}></td>
                       <td>{data.date}</td>
                     </tr>
                   );
@@ -57,23 +59,13 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">Programming Languages</h3>
+            <h3 className="color_sec py-4">Programming Knowledge</h3>
           </Col>
           <Col lg="7">
             {skills.map((data, i) => {
               return (
                 <div key={i}>
                   <h3 className="progress-title">{data.name}</h3>
-                  <div className="progress">
-                    <div
-                      className="progress-bar"
-                      style={{
-                        width: `${data.value}%`,
-                      }}
-                    >
-                      <div className="progress-value">{data.value}%</div>
-                    </div>
-                  </div>
                 </div>
               );
             })}

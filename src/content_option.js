@@ -31,7 +31,12 @@ import portImg13 from "./assets/images/rbe2001.PNG";
 import portImg14 from "./assets/images/IMG_9786.jpg";
 import portImg15 from "./assets/images/bosdff.PNG";
 import portImg16 from "./assets/images/nhhssff.PNG";
-import portImg17 from "./assets/images/flighttracker.PNG";
+import portImg17 from "./assets/images/aerotrades.PNG";
+import portImg18 from "./assets/images/rbe3002.png";
+import portImg19 from "./assets/images/bwh-logo.jpg";
+import portImg20 from "./assets/images/IMG_E6048.png";
+import portImg21 from "./assets/images/hyperdelta_render.png";
+import portImg22 from "./assets/images/coverage_vs_num_robots.png";
 
 import Report from "./files/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf";
 import ScienceFair from "./files/ScienceFair.pdf";
@@ -39,60 +44,65 @@ import ScienceFair from "./files/ScienceFair.pdf";
 const logotext = "SH";
 const meta = {
     title: "Samara Holmes",
-    description: "I’m an aspiring software engineer and robotics engineer with a passion for creating innovative solutions to real-world problems. I’m currently a Junior at the Worcester Polytechnic Institute studying Computer Science and Robotics Engineering.",
 };
 
 const introdata = {
     title: "Hey, I’m Samara.",
     animated: {
-        first: "I code things",
+        first: "I fly drones",
         second: "I build robots",
-        third: "I fly drones",
-        fourth: "I take photos",
+        third: "I take photos",
     },
-    description: " I am a passionate, aspiring engineer with the intention of developing some really cool technology in the near future. I’m currently a Junior at the Worcester Polytechnic Institute studying Computer Science and Robotics Engineering.",
+    description: "I’m a robotics engineer with a passion for creating innovative solutions to real-world problems. I’m currently working as a research engineer at the <a href='https://www.northeastern.edu/kostas/'>Kostas Research Institute</a> at Northeastern."
 };
 
 const dataabout = {
     title: "Get to know me",
-    aboutme: "When I'm not working, you can find me exploring the outdoors, watching sunrises, spending time with my friends, and flying my drone. All my videography work is posted on my youtube channel.",
+    img: portImg20,
+    aboutme: "When I'm not working, you can find me exploring the outdoors, watching sunrises, spending time with my friends, and flying my drone. All my videography work is posted on my <a href='https://www.youtube.com/@samara_holmes'>YouTube channel</a>.",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
+        jobtitle: "Research Engineer",
+        where: "<a href='https://www.northeastern.edu/kostas/'>Kostas Research Institute</a>",
+        date: "July 2024 - Present",
+    },
+    {
+        jobtitle: "Engineering Intern",
+        where: "<a href ='https://www.maglevaero.com'>MagLev Aero</a>",
+        date: "May 2023 - May 2024",
+    },
+    {
         jobtitle: "Software Engineer Intern",
-        where: "AeroVironment",
+        where: "<a href='https://www.avinc.com/'>AeroVironment</a>",
         date: "May 2022 - Aug 2022",
     },
     {
         jobtitle: "HighTech Bound Intern",
-        where: "University of New Hampshire InterOperability Lab",
+        where: "<a href='https://www.iol.unh.edu/'>University of New Hampshire InterOperability Lab</a>",
         date: "July 2019 - Aug 2019",
     },
     {
         jobtitle: "Lead Server",
-        where: "RiverWoods at Exeter",
+        where: "<a href='https://riverwoodsnh.org/exeter/'>RiverWoods at Exeter</a>",
         date: "Sept 2017 - July 2019",
     },
 ];
 
 const skills = [{
         name: "C/C++",
-        value: 90,
     },
     {
         name: "Java",
-        value: 85,
     },
     {
         name: "Javascript / HTML / CSS",
-        value: 80,
     },
     {
         name: "React",
-        value: 60,
     },
     {
         name: "Python",
-        value: 85,
     },
 ];
 
@@ -119,15 +129,26 @@ const services = [
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
+        img: portImg22,
+        desctiption: "Multi-Robot Persistent Coverage under Fuel and Failure Constraints. A research project I worked on at WPI.",
+        link: "https://nestlab-bae-mqp-2024.github.io/",
+    },
+    {
         img: portImg2,
         desctiption: "GoataShop. A WPI acessible shop for students to place listings and buy/sell items.",
         link: "https://github.com/holmes1000/GoataShop",
     },
     {
         img: portImg17,
-        desctiption: "FlightTracker. An app designed using Figma, in hopes of implementing with AviationStack API and React for a live tracking web application.",
-        link: "",
+        desctiption: "AeroTrades. An app designed using Figma, in hopes of implementing with AviationStack API and React for a live tracking web application.",
+        link: "https://youtu.be/ekmXNfD3VEg",
+    },
+    {
+        img: portImg19,
+        desctiption: "An application designed for Brigham and Women's hospital to help hospital employees submit service requests, wayfind between rooms in the hospital, and edit the overall layout of the hospital with a map editing feature.",
+        link: "https://github.com/holmes1000/Hospital-Application/tree/main",
     },
     {
         img: portImg1,
@@ -138,6 +159,11 @@ const dataportfolio = [{
         img: portImg3,
         desctiption: "A pick and place robotic manipulator. Programmed to sort objects of assorted colors and play tic-tac-toe.",
         link: Report,
+    },
+    {
+        img: portImg21,
+        desctiption: "A full stack application designed for MagLev Aero",
+        link: "https://www.maglevaero.com",
     },
     {
         img: portImg13,
@@ -168,6 +194,11 @@ const dataportfolio = [{
         img: portImg4,
         desctiption: "Research on 4D printed structures.",
         link: ScienceFair,
+    },
+    {
+        img: portImg18,
+        desctiption: "The objective of this project is to use the Turtlebot3 for mapping, path planning, and localization. To complete this objective, the robot needs to use Gmapping to map an unexplored area, the team needs to implement the A* algorithm which will allow the robot to follow an optimized trajectory, and the robot needs to find its pose using AMCL.",
+        link: "https://youtu.be/N8xszwzz0uY",
     },
     {
         img: portImg8,
