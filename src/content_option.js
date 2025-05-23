@@ -7,18 +7,10 @@ import img6 from "./assets/images/DSC03648-min.jpg";
 import img7 from "./assets/images/DSC03787-min.jpg";
 import img8 from "./assets/images/DJI_0183-min.jpg";
 import img9 from "./assets/images/DSC02851-min.jpg";
-import img10 from "./assets/images/DSC02318-min.jpg";
-import img11 from "./assets/images/DSC02561-min.jpg";
-import img12 from "./assets/images/DSC01827-min.jpg";
-import img13 from "./assets/images/boats-min.jpg";
-import img14 from "./assets/images/DSC01463-min.jpg";
-import img15 from "./assets/images/DSC01499-min.jpg";
-import img16 from "./assets/images/nubble-min.jpg";
-import img17 from "./assets/images/wentworth-min.jpg";
 
 import portImg1 from "./assets/images/audio-visualizer.PNG";
 import portImg2 from "./assets/images/goatashop.PNG";
-import portImg3 from "./assets/images/rbe3001.png";
+import portImg3 from "./assets/images/tictactoe.PNG";
 import portImg4 from "./assets/images/ultimaker.jpg";
 import portImg5 from "./assets/images/fingertip.PNG";
 import portImg6 from "./assets/images/camera.PNG";
@@ -32,11 +24,22 @@ import portImg14 from "./assets/images/IMG_9786.jpg";
 import portImg15 from "./assets/images/bosdff.PNG";
 import portImg16 from "./assets/images/nhhssff.PNG";
 import portImg17 from "./assets/images/aerotrades.PNG";
-import portImg18 from "./assets/images/rbe3002.png";
+import portImg18 from "./assets/images/rbemapping.png";
 import portImg19 from "./assets/images/bwh-logo.jpg";
 import portImg20 from "./assets/images/IMG_E6048.png";
 import portImg21 from "./assets/images/hyperdelta_render.png";
 import portImg22 from "./assets/images/coverage_vs_num_robots.png";
+import puffin from "./assets/images/puffin.png"
+import whale from "./assets/images/orca.png"
+import chamonix from "./assets/images/chamonix.png"
+import waterfall from "./assets/images/waterfall.jpg"
+import brevent from "./assets/images/brevent.jpg"
+import acropolis from "./assets/images/acropolis.jpg"
+
+import lunar from "./assets/images/lunar_path_planning.png"
+import orbslam from "./assets/images/orbslam.png"
+import cameracalib from "./assets/images/camera calib.png"
+import objdetect from "./assets/images/objdetection.png"
 
 import Report from "./files/FinalProject_Report_RBE3001A22_Team6_Holmes_Liu_Wang.docx.pdf";
 import ScienceFair from "./files/ScienceFair.pdf";
@@ -108,8 +111,8 @@ const skills = [{
 
 const services = [
     {
-        title: "Drone Flying",
-        description: "I've been flying drones since I was in high school, mainly for photo/video purposes, landing me a finalist position in a couple film festivals. However, I've also built my own drone and worked with them at AeroVironment.",
+        title: "Unmanned Aircraft System (UAS) flying",
+        description: "I've been flying drones since I was in high school, mainly for photo/video purposes, landing me a finalist position in a couple film festivals. However, I've also built my own drone and worked with them at AeroVironment and KRI.",
     },
     {
         title: "Computer Aided Design",
@@ -130,6 +133,16 @@ const services = [
 ];
 
 const dataportfolio = [
+    {
+        img: lunar,
+        desctiption: "Using real Lunar terrain data, generate maps to conduct coverage path planning for lunar shaped terrains.",
+        link: "https://github.com/holmes1000/Lunar-Path-Planning/blob/main/Implementation_of_An_Efficient_Coverage_Method_for_Irregularly_Shaped_Terrains.pdf",
+    },
+    {
+        img: orbslam,
+        desctiption: "Using Unreal Engine imagery to run ORB-SLAM",
+        link: "https://www.youtube.com/watch?v=BHuobXRGfN0",
+    },
     {
         img: portImg22,
         desctiption: "Multi-Robot Persistent Coverage under Fuel and Failure Constraints. A research project I worked on at WPI.",
@@ -166,6 +179,11 @@ const dataportfolio = [
         link: "https://www.maglevaero.com",
     },
     {
+        img: objdetect,
+        desctiption: "An application to conduct object detection on custom feature sets",
+        link: "https://youtu.be/9QNfdDDxkmE?feature=shared",
+    },
+    {
         img: portImg13,
         desctiption: "Two robots designed to pick and place panels on rooves at different angles.",
         link: "https://youtu.be/DlBvDDm49zI",
@@ -196,8 +214,13 @@ const dataportfolio = [
         link: ScienceFair,
     },
     {
+        img: cameracalib,
+        desctiption: "An application to conduct camera calibration, feature recognition, and 3D object manipulation",
+        link: "https://youtu.be/vdHldAdyAUI?feature=shared",
+    },
+    {
         img: portImg18,
-        desctiption: "The objective of this project is to use the Turtlebot3 for mapping, path planning, and localization. To complete this objective, the robot needs to use Gmapping to map an unexplored area, the team needs to implement the A* algorithm which will allow the robot to follow an optimized trajectory, and the robot needs to find its pose using AMCL.",
+        desctiption: "Turtlebot3 for mapping, path planning, and localization. Implement the A* algorithm to allow the robot to follow an optimized trajectory, and the robot needs to find its pose using AMCL.",
         link: "https://youtu.be/N8xszwzz0uY",
     },
     {
@@ -234,6 +257,16 @@ const dataportfolio = [
 
 const photoportfolio = [
 {
+    img: brevent,
+    desctiption: "The Brevent cable car on film",
+    link: "#",
+},
+{
+    img: puffin,
+    desctiption: "A puffin on the Icelandic coast.",
+    link: "#",
+},
+{
     img: img1,
     desctiption: "A drone shot of the Balsams Grand Resort in Dixville Notch, NH.",
     link: "#",
@@ -249,6 +282,16 @@ const photoportfolio = [
     link: "#",
 },
 {
+    img: waterfall,
+    desctiption: "A waterfall in Iceland with basalt columns.",
+    link: "#",
+},
+{
+    img: whale,
+    desctiption: "An orca off the Icelandic coast.",
+    link: "#",
+},
+{
     img: img4,
     desctiption: "Me on the Frankenstein Trestle in Crawford Notch, NH.",
     link: "#",
@@ -261,6 +304,16 @@ const photoportfolio = [
 {
     img: img6,
     desctiption: "The Conway Scenic Railroad train",
+    link: "#",
+},
+{
+    img: acropolis,
+    desctiption: "The Acropolis in Athens.",
+    link: "#",
+},
+{
+    img: chamonix,
+    desctiption: "Chamonix.",
     link: "#",
 },
 {
